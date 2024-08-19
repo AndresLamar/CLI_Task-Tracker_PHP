@@ -1,5 +1,7 @@
 # Simple Task Manager
 
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
+
 This is a simple command-line task manager application written in PHP. It allows you to add, list, update, mark as in-progress/done, and delete tasks.
 
 ## Installation
